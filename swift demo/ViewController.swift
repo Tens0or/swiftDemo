@@ -26,6 +26,7 @@ class ViewController: UIViewController {
         print("hello,world")
         greet("zhang")
         print(optionalName == nil)
+            print("zhangliang")
     }
     func greet(name:String)->String{
         
